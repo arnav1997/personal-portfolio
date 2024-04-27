@@ -23,9 +23,9 @@ function AboutCard() {
             enjoy solving problems by writing clean and efficient code.
             Furthermore, I have a good knowledge and experience with regards to
             System Design principles. I'm an AWS Certified Cloud Practitioner,
-            capable of deploying and managing robust applications on the cloud.
-            On a personal level, I firmly believe in the power of technology to
-            empower people and make their lives better!
+            capable of deploying and managing robust and scalable applications
+            on the cloud. On a personal level, I firmly believe in the power of
+            technology to empower people and make their lives better!
             <br />
             <br />
             Apart from coding, here are some hobbies I enjoy :)
