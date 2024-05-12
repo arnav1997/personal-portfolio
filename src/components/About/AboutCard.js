@@ -14,10 +14,9 @@ function AboutCard() {
             I've just graduated with an MS in Engineering Science degree from
             University at Buffalo, New York, USA.
             <br />
-            Before that, I worked for 3 years as a Java Full-Stack Engineer
-            developing web applications for online examinations, specializing in
-            Object Oriented Programming using Java with Spring Boot and REST API
-            backends, complemented by expertise in ReactJS and Angular
+            Before that, I worked for 3 years as a Full-Stack Engineer,
+            specializing in Java and Python with REST API for backend
+            development, complemented by expertise in React and Angular
             frontends. <br />I took up programming at quite an early age,
             starting with C and C++ and then moving on to Java and Python. I
             enjoy solving problems by writing clean and efficient code.
