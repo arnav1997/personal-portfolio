@@ -21,7 +21,7 @@ function AboutCard() {
             starting with C and C++ and then moving on to Java and Python. I
             enjoy solving problems by writing clean and efficient code.
             Furthermore, I have a good knowledge and experience with regards to
-            System Design principles. I'm an AWS Certified Cloud Practitioner,
+            System Design principles. I'm an AWS Certified Developer Associate,
             capable of deploying and managing robust and scalable applications
             on the cloud. On a personal level, I firmly believe in the power of
             technology to empower people and make their lives better!
