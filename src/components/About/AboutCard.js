@@ -14,17 +14,17 @@ function AboutCard() {
             I've just graduated with an MS in Engineering Science degree from
             University at Buffalo, New York, USA.
             <br />
-            Before that, I worked for 3 years as a Full-Stack Engineer,
-            specializing in Java and Python with REST API for backend
-            development, complemented by expertise in React and Angular
-            frontends. <br />I took up programming at quite an early age,
-            starting with C and C++ and then moving on to Java and Python. I
-            enjoy solving problems by writing clean and efficient code.
-            Furthermore, I have a good knowledge and experience with regards to
-            System Design principles. I'm an AWS Certified Developer Associate,
-            capable of deploying and managing robust and scalable applications
-            on the cloud. On a personal level, I firmly believe in the power of
-            technology to empower people and make their lives better!
+            Before that, I worked as a Full-Stack Engineer, specializing in Java
+            and Python with REST API for backend development, complemented by
+            expertise in React and Angular frontends. <br />I took up
+            programming at quite an early age, starting with C and C++ and then
+            moving on to Java and Python. I enjoy solving problems by writing
+            clean and efficient code. Furthermore, I have a good knowledge and
+            experience with regards to System Design principles. I'm an AWS
+            Certified Developer Associate, capable of deploying and managing
+            robust and scalable applications on the cloud. On a personal level,
+            I firmly believe in the power of technology to empower people and
+            make their lives better!
             <br />
             <br />
             Apart from coding, here are some hobbies I enjoy :)
